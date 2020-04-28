@@ -1,0 +1,2 @@
+rootProject.name='FragmentSession'
+include ':app'
